@@ -1,17 +1,19 @@
 ## Hey, seja bem vindo! ✌️
-#### Social Media
+##### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marcelogalli/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-l-galli-488671101/)
 
 ---
 
-#### Stats
-![MarceloGalliDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloGalliDev&show_icons=true&theme=tokyonight&include_all_commits=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalliDev&layout=compact&card_width=466&theme=tokyonight)
+##### Stats
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloGalliDev&show_icons=true&theme=tokyonight&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalliDev&layout=compact&card_width=300&theme=tokyonight">
+</div>
 
 ---
 
-#### Tecnologias 
+##### Tecnologias 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
@@ -24,5 +26,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-#### Blogs Participativo
+
+##### Blogs Participativo
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+![Snake abunatuib](https://github.com/MarceloGalliDev/MarceloGalliDev/blob/output/github-contribution-grid-snake.svg)
