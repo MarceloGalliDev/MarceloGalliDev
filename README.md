@@ -30,4 +30,4 @@
 ##### Blogs Participativo
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Snake abunatuib](https://github.com/MarceloGalliDev/MarceloGalliDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MarceloGalliDev/MarceloGalliDev/blob/output/github-contribution-grid-snake.svg)
