@@ -23,8 +23,3 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ---
-
-##### Stats
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGalliDev&layout=compact&card_width=300&theme=tokyonight">
-</div>
